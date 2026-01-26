@@ -1,0 +1,13 @@
+.financial-year-container {
+  margin-bottom: 24px;
+}
+.financial-year-label {
+  margin:0 0 12px;
+  color:#374151;
+  font-weight: 600;
+}
+.finacial-year-buttons {
+  display:flex;
+  flex-wrap:wrap;
+  gap:12px;
+}
